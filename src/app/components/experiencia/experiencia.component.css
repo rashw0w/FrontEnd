@@ -1,0 +1,16 @@
+.row{
+    padding: 20px;
+}
+div{
+    background: #302e2e;
+}
+h1,h3{
+    color: white;
+    display: inline;
+    text-align: center;
+}
+.table{
+    text-align: center;
+    
+
+}
