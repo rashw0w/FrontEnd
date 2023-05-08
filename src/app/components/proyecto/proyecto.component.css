@@ -3,18 +3,19 @@
     background-color: #302e2e;
 }
 .contenedor{
+    width: 60%;
     color: white;
-    width: auto;
+    margin-left: 33%;
 }
-h1{
+h1,h2{
     text-align: center;
     color: white;
 }
 .parte1, .parte2{
-    display: inline-block;
+    color: white;
     text-align: justify;
 }
-.img-proyecto{
-    box-shadow: 10px 10px 30px #000000;
+.img-proyecto1, .img-proyecto2{
+    box-shadow: 5px 5px 5px #000000;
     box-shadow: ejeX ejeY difumasion color;
 }
