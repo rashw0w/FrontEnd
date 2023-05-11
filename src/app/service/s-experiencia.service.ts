@@ -8,7 +8,7 @@ import { Experiencia } from '../model/experiencia';
 })
 export class SExperienciaService {
 
-  expURL = 'https://rashbackendtp.onrender.com/auth';
+  expURL = 'https://rashbackendtp.onrender.com/';
 
   URL = this.expURL + 'explab/';
 

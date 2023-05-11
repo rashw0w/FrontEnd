@@ -8,7 +8,7 @@ import { Skill } from '../model/skill';
   providedIn: 'root'
 })
 export class SkillService {
-  URL = 'https://rashbackendtp.onrender.com' + 'skill/';
+  URL = 'https://rashbackendtp.onrender.com/' + 'skill/';
   
   constructor(private httpClient: HttpClient) { }
 

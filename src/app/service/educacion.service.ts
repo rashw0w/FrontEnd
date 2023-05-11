@@ -8,7 +8,7 @@ import { Educacion } from '../model/educacion';
 })
 export class EducacionService {
 
-  URL = 'https://rashbackendtp.onrender.com/skill/';
+  URL = 'https://rashbackendtp.onrender.com/educacion/';
 
   constructor(private httpClient : HttpClient) { }
 
